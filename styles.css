@@ -1,7 +1,7 @@
 body {
     font-family: Georgia, 'Times New Roman', Times, serif;
-    color: blueviolet;
-    background-color: bisque;
+    color: orange;
+    background-color: #FFFDD0;
 }
 
 nav {
@@ -10,7 +10,7 @@ nav {
 }
 
 a:hover {
-    color: pink;
+    color: brown;
 }
 
 img {
