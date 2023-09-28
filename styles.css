@@ -1,0 +1,19 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: blueviolet;
+    background-color: bisque;
+}
+
+nav {
+    font-size: 2em;
+    
+}
+
+a:hover {
+    color: pink;
+}
+
+img {
+    height: 15em;
+}
+
